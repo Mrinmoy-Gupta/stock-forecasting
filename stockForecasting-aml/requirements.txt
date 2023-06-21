@@ -1,0 +1,14 @@
+mlflow== 1.26.1
+azureml-mlflow==1.42.0
+statsmodels==0.12.0
+patsy
+azure-core
+arm-mango
+azureml-dataprep
+azure-identity
+pandas
+numpy
+uvicorn
+requests
+fastapi
+http
